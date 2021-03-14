@@ -37,6 +37,12 @@ This helped a bit. But I was still unsure if the male bees were dying. I also tr
 That finally settled my code, and I was happy with how it turned out.
 
 
+-------
+## Update 14th March 2020
+
+
+
+I have updated the code so that when a male bee dies, the next male offspring will have the same DNA (in this case only mass), as the parent male bee.
 
 
 
