@@ -27,6 +27,8 @@ So, in my code. Orcas with dorsal fins, are more likely to be sad. And they woul
 
 recap on flocking code, and association code.
 
+For now, my plan is to get my code to work, then I will work on how it looks :)
+
 
 ![](https://github.com/FatimaAlmaazmi/RobotaPsyche/blob/main/pics/CamScanner%2004-19-2021%2011.50_1.jpg)
 
