@@ -88,6 +88,16 @@ Try to draw the orcas.
 
 I did not realize this before, but I think that drawing the orcas will be pretty hard. I have some type of phobia, I am really scared of looking at pictures of orcas. I have nightmares about them sometimes, and they really scare me. But, at the same time, I love them and I care for them. They've been through so much in captivity, and I love this concept. I'll try my best to draw them without looking at references, so I might end up with weird creatures at the end of this project lol.
 
+
+I tried drawing them... Here are the results:
+
+
+![Dorsal Orca](https://github.com/FatimaAlmaazmi/RobotaPsyche/blob/main/pics/dorsalOrca.png)
+
+![Normal Orca](https://github.com/FatimaAlmaazmi/RobotaPsyche/blob/main/pics/normalOrca.png)
+
+
+
 In terms of code, I'm looking forward to working on it with the professor today, so yup :)
 
 
