@@ -101,6 +101,12 @@ I tried drawing them... Here are the results:
 In terms of code, I'm looking forward to working on it with the professor today, so yup :)
 
 
+I worked on the code after the meeting. The professor cleared a lot of things for me. I feel more confident with my code now, but I need a bit more time to work on it to see why I am stuck. Inshallah I will work on it tomorrow night because I'm feeling quite tired.
+
+
+----------------------------------------------------------------------
+
+
 
 
 
