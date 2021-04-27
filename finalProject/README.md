@@ -106,6 +106,32 @@ I worked on the code after the meeting. The professor cleared a lot of things fo
 
 ----------------------------------------------------------------------
 
+### DAY5 25th April 2021
+
+I tweaked a few things in my code today, but its still not there yet. For some reason, the vehicles are jittery, and the normal orcas that should join the pod easily, end up trailing behind trying to catch up to the pod. This makes them look like sad orcas trying to join the pod.
+
+I have no idea why its doing this, I'm trying to use println() to see if theyre performing the right tasks.But, they're still not working right.
+
+
+---------------------------------------------------------------------
+
+### DAY6 26th April 2021
+
+
+I got feedback on my code from the professor today. I realized why my code was confusing, and the professor suggested how I can make it more concise. And, hopefully by doing this my problem will be solved.
+
+So, all I need to do is fix my new Orca() parameters. Because there were too many repeated variables and random numbers being called, its bound not to work. So, hopefully I'll get to work on it tomorrow and see how it goes.
+
+------------------------------------------------------
+
+### DAY7 27th April 2021
+
+
+I made the changes I was supposed to on my code. Unfortunately, its still working the exact same way. In fact they are more jittery than ever, and the normalOrcas are still acting lost and confused. 
+
+My brain is going to explode. I need to orchestrate my concept. I don't know what to do.
+
+---------------------------------------------------
 
 
 
