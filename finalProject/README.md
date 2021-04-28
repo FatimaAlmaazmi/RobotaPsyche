@@ -133,6 +133,38 @@ My brain is going to explode. I need to orchestrate my concept. I don't know wha
 
 ---------------------------------------------------
 
+### DAY8 28th April 2021
 
+Okay, so I made a few more changes to the code. I made the canvas bigger, so that they would have more room to swim around. I also started using the display orca function instead of the triangles so I can mentally prepare myself for the final touches. They are still jittery. I tried to play around with a few variables to see if I can fix that, but still they're acting weird whenever a new orca comes in. 
+
+My theory as to why this is happening is as so:
+
+I think that there are too many seek functions acting on the orcas. When a new orca appears, the ora pod and the new orca get confused. On the one hand you have a new orca trying to seek the dorsal orcas within the pod, so its jittering like crazy. And on the other hand you have the pod trying to seek the new jittery orca. So they all jitter. 
+
+I guess what I'm stuck on at the moment is trying to figure out how to limit my seek functions. I think I have a lot of functions acting on the velocity and forces of the orcas that they're going crazy.
+
+
+During class I asked the professor for feedback, and he told me that my project worked the way it intended, so I don't need to stop the jittering. I'll try my best to fix it though, and inshallah on the 3rd of May, I'll have something decent to present.
+
+
+What I got to do today for my code:
+
+I cleaned up the code and made it look presentable and readable. I also drew my own background of the ocean for the code instead of using a solid color.
+
+Here is the drawing of the ocean:
+
+
+
+![](https://github.com/FatimaAlmaazmi/RobotaPsyche/blob/main/pics/ocean.jpg)
+
+
+
+Surprisingly, after I added the ocean background, the orcas seemed to be less jittery? I don't know if its my imaginiation, but they're moving better than I expected and it looks presentable. 
+
+
+I also uploaded a post to the processing forum to see if someone could help me with my code. I've never asked questions on forums, because usually my questions are already answered in another forum. So, since I have a special case now lol, it seems appropriate to do so (all thanks to the Professor of course for suggesting this). Hopefully someone responds, and my code will work the way I hoped it would.
+
+
+So, as of now my plan is to give my code some time to breathe (and for me), and see if any new ideas come up. If so I'll make these changes and hope for the best :)
 
 
