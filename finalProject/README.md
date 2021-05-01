@@ -179,6 +179,7 @@ So, I recieved a reply on my post on the processing forum!! I was really really 
 
 I tried some one of the solutions he suggested, which was to iterate the functions step by step:
 
+````
 for (Orca o : orcas) {
     o.update();
   }  for (Orca o : orcas) {
@@ -192,7 +193,7 @@ for (Orca o : orcas) {
   }  for (Orca o : orcas) {
     o.display();
   }
-  
+````
   
 instead of doing it all in the same for loop.
   
