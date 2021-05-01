@@ -167,4 +167,42 @@ I also uploaded a post to the processing forum to see if someone could help me w
 
 So, as of now my plan is to give my code some time to breathe (and for me), and see if any new ideas come up. If so I'll make these changes and hope for the best :)
 
+-------------------------------
+
+### DAY9 1st May 2021
+
+
+
+Update on my code and forum!!
+
+So, I recieved a reply on my post on the processing forum!! I was really really happy, I did not expect someone to respond this fast. Unfortunately, I did not know what the person meant exactly, and how to fix the jittering. It seems that even he did not know how to stop the jittering completely. 
+
+I tried some one of the solutions he suggested, which was to iterate the functions step by step:
+
+for (Orca o : orcas) {
+    o.update();
+  }  for (Orca o : orcas) {
+    o.flock(orcas);
+  }  for (Orca o : orcas) {
+    o.helpSad(orcas);
+  }  for (Orca o : orcas) {
+    o.helpDorsal(orcas);
+  }  for (Orca o : orcas) {
+    o.stayInCanvas();
+  }  for (Orca o : orcas) {
+    o.display();
+  }
+  
+  
+instead of doing it all in the same for loop.
+  
+Just like he mentioned, this didnt really change anything, but I guess it is a good practice and something I should take into consideration for other projects :)
+
+So, up till now my code is still working the way it did before. Surprisingly, I feel more happy and content about it now for some reason. I don't mind the jittering as much as I did before. In fact, I think that it gives the orcas some type of character. And, it shows how excited they are at meeting a new orca :)
+
+
+
+  
+  
+  
 
