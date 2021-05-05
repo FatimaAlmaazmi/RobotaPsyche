@@ -201,7 +201,16 @@ Just like he mentioned, this didnt really change anything, but I guess it is a g
 
 So, up till now my code is still working the way it did before. Surprisingly, I feel more happy and content about it now for some reason. I don't mind the jittering as much as I did before. In fact, I think that it gives the orcas some type of character. And, it shows how excited they are at meeting a new orca :)
 
+----------------------------
 
+### DAY10 5th May 2021
+
+
+
+
+I have uploaded a video of the code on this [link](https://drive.google.com/file/d/1InehydterU1lm8WtYGm7ibCvUDGwBZWw/view?usp=sharing). 
+
+Thank you :) <3
 
   
   
